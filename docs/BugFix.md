@@ -1,12 +1,16 @@
-<!-- Use this description template for improvements to existing features. -->
+<!-- Use this description template for bug fixes. -->
 
 <!-- Briefly describe what this PR is about. -->
 
-# Improvement Summary12
+# Bug Fix Summary
 
 -
 
-<!-- Paste the link to the ticket here. -->
+<!-- List the fixed bugs here. -->
+
+# Issues addressed
+
+-
 
 # Ticket Link
 
